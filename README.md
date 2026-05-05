@@ -1,4 +1,4 @@
-# **Daily Challenges**
+# **The Timer Challenges**
 
 A precision-based timing game that challenges users to estimate when a specific duration has elapsed. This project focuses on high-stakes UI updates, utilizing React features like portals for modals and refs for independent timer management.
 
@@ -14,4 +14,3 @@ A precision-based timing game that challenges users to estimate when a specific 
 * **Frontend:** React (specifically leveraging `useRef`, `useState`, and Portals)  
 * **Logic:** JavaScript (ES6+) for handling precise countdown intervals and score calculations  
 * **Styling:** Custom CSS featuring a sleek dark-mode aesthetic with vibrant cyan highlight elements  
-* 
